@@ -24,7 +24,8 @@ Multi-source DC circuits may be analyzed using a mesh current technique. The pro
 
 CIRCUIT DIAGRAM:
 
- 
+ <img width="603" height="399" alt="image" src="https://github.com/user-attachments/assets/da004e08-1014-45d8-8058-338524bce1fc" />
+
 
 
 PROCEDURE:
@@ -44,20 +45,23 @@ PROCEDURE:
 
 TABULAR COLUMN:
 
- 
+ <img width="519" height="387" alt="image" src="https://github.com/user-attachments/assets/28cbe438-c8f8-4717-bd9b-a5c25a11b3fb" />
+
 
 
 
 
 CALCULATION:
 
- 
+ <img width="776" height="1116" alt="image" src="https://github.com/user-attachments/assets/eccbc088-36bc-4ea3-b2f6-d69e4ea0bf4e" />
+
 
 
 
 MARKS SPLIT UP:
 
- 
+ <img width="804" height="486" alt="image" src="https://github.com/user-attachments/assets/a5adaf9c-389b-46e2-82fb-74898a3f0696" />
+
 
 RESULT:
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for / V supply are:
